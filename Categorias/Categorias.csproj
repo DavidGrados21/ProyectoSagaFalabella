@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9DFC303B-5DEF-4330-9D15-BCEAF561B25B}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Categorias</RootNamespace>
+    <AssemblyName>Categorias</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CarritoDeCompras.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CarritoDeCompras.Designer.cs">
+      <DependentUpon>CarritoDeCompras.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Electrodomesticos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Electrodomesticos.Designer.cs">
+      <DependentUpon>Electrodomesticos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Perfumeria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Perfumeria.Designer.cs">
+      <DependentUpon>Perfumeria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="P_Principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="P_Principal.Designer.cs">
+      <DependentUpon>P_Principal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Textil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Textil.Designer.cs">
+      <DependentUpon>Textil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Zapatillas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Zapatillas.Designer.cs">
+      <DependentUpon>Zapatillas.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="CarritoDeCompras.resx">
+      <DependentUpon>CarritoDeCompras.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Electrodomesticos.resx">
+      <DependentUpon>Electrodomesticos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Perfumeria.resx">
+      <DependentUpon>Perfumeria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="P_Principal.resx">
+      <DependentUpon>P_Principal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Textil.resx">
+      <DependentUpon>Textil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Zapatillas.resx">
+      <DependentUpon>Zapatillas.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CapaDatos\CapaDatos.csproj">
+      <Project>{cb12b596-7e3c-46b6-a5bc-aa4da5b7800d}</Project>
+      <Name>CapaDatos</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

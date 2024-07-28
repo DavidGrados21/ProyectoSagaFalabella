@@ -1,0 +1,17 @@
+C:\Users\David\source\repos\Interfaz Proyecto\Categorias\bin\Debug\Categorias.dll
+C:\Users\David\source\repos\Interfaz Proyecto\Categorias\bin\Debug\Categorias.pdb
+C:\Users\David\source\repos\Interfaz Proyecto\Categorias\bin\Debug\CapaDatos.dll
+C:\Users\David\source\repos\Interfaz Proyecto\Categorias\bin\Debug\CapaDatos.pdb
+C:\Users\David\source\repos\Interfaz Proyecto\Categorias\obj\Debug\Categorias.csproj.AssemblyReference.cache
+C:\Users\David\source\repos\Interfaz Proyecto\Categorias\obj\Debug\Categorias.Properties.Resources.resources
+C:\Users\David\source\repos\Interfaz Proyecto\Categorias\obj\Debug\Categorias.P_Principal.resources
+C:\Users\David\source\repos\Interfaz Proyecto\Categorias\obj\Debug\Categorias.csproj.GenerateResource.cache
+C:\Users\David\source\repos\Interfaz Proyecto\Categorias\obj\Debug\Categorias.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\Interfaz Proyecto\Categorias\obj\Debug\Categorias.csproj.CopyComplete
+C:\Users\David\source\repos\Interfaz Proyecto\Categorias\obj\Debug\Categorias.dll
+C:\Users\David\source\repos\Interfaz Proyecto\Categorias\obj\Debug\Categorias.pdb
+C:\Users\David\source\repos\Interfaz Proyecto\Categorias\obj\Debug\Categorias.Electrodomesticos.resources
+C:\Users\David\source\repos\Interfaz Proyecto\Categorias\obj\Debug\Categorias.Zapatillas.resources
+C:\Users\David\source\repos\Interfaz Proyecto\Categorias\obj\Debug\Categorias.Textil.resources
+C:\Users\David\source\repos\Interfaz Proyecto\Categorias\obj\Debug\Categorias.Perfumeria.resources
+C:\Users\David\source\repos\Interfaz Proyecto\Categorias\obj\Debug\Categorias.CarritoDeCompras.resources

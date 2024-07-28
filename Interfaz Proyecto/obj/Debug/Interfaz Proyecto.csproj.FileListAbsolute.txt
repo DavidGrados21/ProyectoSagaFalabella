@@ -1,0 +1,18 @@
+C:\Users\David\source\repos\Interfaz Proyecto\Interfaz Proyecto\bin\Debug\Interfaz Proyecto.exe.config
+C:\Users\David\source\repos\Interfaz Proyecto\Interfaz Proyecto\bin\Debug\Interfaz Proyecto.exe
+C:\Users\David\source\repos\Interfaz Proyecto\Interfaz Proyecto\bin\Debug\Interfaz Proyecto.pdb
+C:\Users\David\source\repos\Interfaz Proyecto\Interfaz Proyecto\obj\Debug\Interfaz Proyecto.csproj.AssemblyReference.cache
+C:\Users\David\source\repos\Interfaz Proyecto\Interfaz Proyecto\obj\Debug\Interfaz_Proyecto.Properties.Resources.resources
+C:\Users\David\source\repos\Interfaz Proyecto\Interfaz Proyecto\obj\Debug\Interfaz Proyecto.csproj.GenerateResource.cache
+C:\Users\David\source\repos\Interfaz Proyecto\Interfaz Proyecto\obj\Debug\Interfaz Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\Interfaz Proyecto\Interfaz Proyecto\obj\Debug\Interfaz Proyecto.exe
+C:\Users\David\source\repos\Interfaz Proyecto\Interfaz Proyecto\obj\Debug\Interfaz Proyecto.pdb
+C:\Users\David\source\repos\Interfaz Proyecto\Interfaz Proyecto\obj\Debug\Interfaz_Proyecto.Login.resources
+C:\Users\David\source\repos\Interfaz Proyecto\Interfaz Proyecto\obj\Debug\Interfaz_Proyecto.Registrarse.resources
+C:\Users\David\source\repos\Interfaz Proyecto\Interfaz Proyecto\obj\Debug\Interfaz_Proyecto.LoginStaff.resources
+C:\Users\David\source\repos\Interfaz Proyecto\Interfaz Proyecto\bin\Debug\CapaDatos.dll
+C:\Users\David\source\repos\Interfaz Proyecto\Interfaz Proyecto\bin\Debug\CapaDatos.pdb
+C:\Users\David\source\repos\Interfaz Proyecto\Interfaz Proyecto\obj\Debug\Interfaz Proyecto.csproj.CopyComplete
+C:\Users\David\source\repos\Interfaz Proyecto\Interfaz Proyecto\obj\Debug\Interfaz_Proyecto.Pantalla_Principal.resources
+C:\Users\David\source\repos\Interfaz Proyecto\Interfaz Proyecto\bin\Debug\Categorias.dll
+C:\Users\David\source\repos\Interfaz Proyecto\Interfaz Proyecto\bin\Debug\Categorias.pdb
